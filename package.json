@@ -1,0 +1,13 @@
+{
+    "name": "liquor-scraper",
+    "version": "1.0.0",
+    "description": "Web scraper for Liquorland special offers",
+    "main": "scraper.js",
+    "type": "module",
+    "scripts": {
+      "start": "node scraper.js"
+    },
+    "dependencies": {
+      "puppeteer": "^22.0.0"
+    }
+  }
