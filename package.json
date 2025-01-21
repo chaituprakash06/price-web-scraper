@@ -8,6 +8,9 @@
       "start": "node scraper.js"
     },
     "dependencies": {
-      "puppeteer": "^22.0.0"
+      "puppeteer": "^22.0.0",
+      "groq-sdk": "^0.3.0",
+      "dotenv": "^16.0.3",
+      "@supabase/supabase-js": "^2.39.3"
     }
   }
